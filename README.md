@@ -16,8 +16,8 @@ The tool uses your webcam (or an IP camera) to detect movement and save snapshot
 ## 📦 Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/security-camera-tool.git
-   cd security-camera-tool
+   git clone https://github.com/Fazo28/security.git
+   cd security
    ```
 
 2. Install dependencies:
